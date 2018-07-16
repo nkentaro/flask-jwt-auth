@@ -1,0 +1,41 @@
+create database flask_jwt_auth;
+create database flask_jwt_quth_test;
+\q
+\q
+\c flask_jwt_auth 
+\d
+\s flask_jwt_auth_test
+create database flask_jwt_quth_test;
+create database flask_jwt_auth_test
+\q
+\d
+\s flask_jwt_auth_test
+create database flask_jwt_auth_test
+\s flask_jwt_auth_test
+\q
+drop database flask_jwt_quth_test
+\s flask_jwt_auth_test 
+\d
+\d
+\s flask_jwt_auth
+\d
+\q
+\help
+\h
+\?
+\l
+create database flask_jwt_auth_test
+\l
+drop database flask_jwt_quth_test
+;
+\h
+DROP DATABASE flask_jwt_quth_test ;
+create database flask_jwt_auth_test
+\l
+CREATE DATABASE flask_jwt_auth_test;
+;
+CREATE DATABASE flask_jwt_auth_test;
+\l
+\q
+\q
+\s flask_jwt_auth
